@@ -1,4 +1,5 @@
-# Assignment Module 6 - Git Cherry-Picking and Clean - Exercise 2 - Git Clean Commands - Jeremy Nally
+# Assignment Module 6 - Git Cherry-Picking and Clean - Jeremy Nally
+## Exercise 2 - Git Clean Commands
 
 * **Preview the changes:** `git clean -n` (or `--dry-run`)
     * **Description:** Performs a "dry run" to preview which untracked files will be deleted without actually removing them.
